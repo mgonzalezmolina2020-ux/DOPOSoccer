@@ -1,2 +1,0 @@
-# DOPOSoccer
-proyecto final DOPO
